@@ -8,7 +8,7 @@ image:
   repository: devopseasylearning2021/s3dubois
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "web2"
+  tag: "web3"
 
 imagePullSecrets: []
 nameOverride: ""
